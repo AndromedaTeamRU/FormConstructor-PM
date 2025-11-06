@@ -1,6 +1,6 @@
 name: FormConstructor
 version: 1.0.0
-api: 5.0.0
+api: 3.0.0
 author: MEFRREEX
 description: Library for easy creating and handling of forms
 main: com\formconstructor\FormConstructor

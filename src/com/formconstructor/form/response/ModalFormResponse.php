@@ -3,7 +3,8 @@
 namespace com\formconstructor\form\response;
 
 use Closure;
-use pocketmine\player\Player;
+use pocketmine\Player;
+
 
 class ModalFormResponse extends FormResponse {
 

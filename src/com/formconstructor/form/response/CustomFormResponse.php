@@ -13,7 +13,8 @@ use com\formconstructor\form\element\custom\StepSlider;
 use com\formconstructor\form\element\custom\Toggle;
 use com\formconstructor\form\element\custom\validator\IValidator;
 use com\formconstructor\form\element\ElementType;
-use pocketmine\player\Player;
+use pocketmine\Player;
+
 
 class CustomFormResponse extends FormResponse {
 

@@ -9,7 +9,7 @@ use com\formconstructor\form\response\CustomFormResponse;
 use com\formconstructor\form\response\FormResponse;
 use com\formconstructor\form\response\ModalFormResponse;
 use com\formconstructor\form\response\SimpleFormResponse;
-use pocketmine\player\Player;
+use pocketmine\Player;
 
 // TODO async handing
 class FormHandlingTask {

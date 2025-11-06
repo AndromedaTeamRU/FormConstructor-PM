@@ -2,8 +2,9 @@
 
 namespace com\formconstructor\form\response;
 
-use pocketmine\player\Player;
+
 use com\formconstructor\form\element\simple\Button;
+use pocketmine\Player;
 
 class SimpleFormResponse extends FormResponse {
 

@@ -3,7 +3,8 @@
 namespace com\formconstructor\event;
 
 use com\formconstructor\form\Form;
-use pocketmine\player\Player;
+use pocketmine\Player;
+
 
 class PlayerFormCloseEvent extends FormEvent {
 

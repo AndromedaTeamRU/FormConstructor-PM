@@ -8,7 +8,7 @@ use com\formconstructor\form\element\custom\Label;
 use com\formconstructor\form\element\custom\validator\IValidator;
 use com\formconstructor\form\response\CustomFormResponse;
 use com\formconstructor\form\response\FormResponse;
-use pocketmine\player\Player;
+use pocketmine\Player;
 
 class CustomForm extends CloseableForm {
 
