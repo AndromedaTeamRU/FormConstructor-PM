@@ -1,6 +1,6 @@
 ![logo](https://github.com/MEFRREEX/FormConstructor-PM/assets/83061703/cdbd20c2-7046-4636-a6c7-6482beb51ecf)
 
-This plugin is a rewritten version of the FormConstructor plugin for Nukkit on PocketMine-MP API 5.0.0
+This plugin is a rewritten version of the FormConstructor plugin for Nukkit on PocketMine-MP API 3.0.0
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE) 
 [![Version](https://img.shields.io/badge/Version-2.0.1-brightgreen)](https://github.com/MEFRREEX/FormConstructor-PM/releases/tag/1.0.0)
